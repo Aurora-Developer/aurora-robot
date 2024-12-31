@@ -1,0 +1,4 @@
+requests~=2.32.3
+beautifulsoup4~=4.12.3
+xpinyin~=0.7.6
+tqdm~=4.67.1
